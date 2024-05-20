@@ -1,19 +1,12 @@
 # 🏗️🎨📊 Welcome to my Creative Universe! 🚀
 
 ## Who Am I?
-
-Hey there, I'm Sanat, an architect turned UX/UI designer on a mission to infuse magic into every pixel and brick. I believe that design isn't just about creating pretty visuals; it's about crafting experiences that resonate with the soul.
-
-## Unveiling the Journey
-
-Picture this: A journey from blueprints to pixels, where every line drawn and every pixel placed tells a story. My path began in the world of architecture, where I learned to sculpt spaces that dance with light and whisper tales of human connection. But soon, I realized that the canvas of user interfaces holds endless possibilities for creativity and impact.
+Hey there! I'm Sanat, a multi-dimensional creator weaving magic in pixels, code, and concrete. With a background in architecture and a passion for design, I've embarked on a journey where every line drawn and every line of code penned tells a story of innovation and imagination.
 
 ## Crafting Experiences
-
-In my design universe, I blend the principles of architecture with the finesse of UX/UI design to create experiences that transcend screens and spaces. Whether it's designing a sleek mobile app or sculpting an immersive physical environment, I'm here to turn dreams into digital and tangible realities.
+In my creative laboratory, I blend the precision of code with the artistry of design to craft experiences that captivate and inspire. Whether it's designing intuitive user interfaces, analyzing data to uncover insights, or sculpting architectural marvels that defy convention, I'm here to turn visions into reality.
 
 ## Data-Driven Dreams
-
 But wait, there's more! In a world buzzing with data, I've embarked on a quest to unravel its mysteries. Python, SQL, and Power BI have become my trusty companions as I navigate through the vast sea of data, seeking insights that spark innovation and drive informed decisions.
 
 ## Skills & Superpowers 💻✨
