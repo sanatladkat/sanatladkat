@@ -1,7 +1,7 @@
 # 🏗️🎨📊 Welcome to my Creative Universe! 🚀
 
 ## Who Am I?
-Hey there! I'm Sanat, a multi-dimensional creator weaving magic in pixels, code, and concrete. With a background in architecture and a passion for design, I've embarked on a journey where every line drawn and every line of code penned tells a story of innovation and imagination.
+Hey there! I'm Sanat, a multi-dimensional creator weaving magic in data, pixels, code, and concrete. With a background in architecture and a passion for design, I've embarked on a journey where every line drawn and every line of code penned tells a story of innovation and imagination.
 
 ## Crafting Experiences
 In my creative laboratory, I blend the precision of code with the artistry of design to craft experiences that captivate and inspire. Whether it's designing intuitive user interfaces, analyzing data to uncover insights, or sculpting architectural marvels that defy convention, I'm here to turn visions into reality.
