@@ -24,5 +24,6 @@ Are you ready to embark on a journey through pixels, blueprints, and data stream
 
 ### 🌐 [Medium](https://medium.com/@arsanatl)
 ### 💼 [LinkedIn](https://www.linkedin.com/in/sanatladkat/)
+### 📊 [Kaggle](https://www.kaggle.com/sanatladkat)
 
 Remember, in this universe of creativity, the only limit is our imagination. Let's push boundaries and redefine what's possible! 🌟
