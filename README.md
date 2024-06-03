@@ -13,7 +13,7 @@ But wait, there's more! In a world buzzing with data, I've embarked on a quest t
 
 - **Programming Languages:** Python, Dart
 - **Data Science & ML:** TensorFlow, OpenCV, YOLO, PyTorch, Pandas, Numpy
-- **Web Development:** Streamlit, Flask, Django
+- **Web Development:** Streamlit, Flask
 - **Data Visualization:** PowerBI
 - **Design Tools:** Figma, Adobe Photoshop, Adobe Premiere Pro
 - **Architectural Design:** AutoCAD, Rhino, Grasshopper, Lumion
